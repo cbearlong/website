@@ -1,0 +1,35 @@
+baseURL = "https://stringphenosequel.github.io/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Alexis Tacnet"
+title = "Summer Series on String Phenomenology"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+enlarged = true
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "String Pheno 2020"
+copyright = ""
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+#github = "example"
+#email = "you@example.com"
+#linkedin = "john-example-aa80ue8è"
+#twitter = "example"
+social_banner = "img/banner.png"
+posts_navigation = true
+small_banner_logo = false
