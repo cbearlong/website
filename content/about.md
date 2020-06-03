@@ -1,5 +1,5 @@
 +++
-date = "2015-08-22"
+date = "2015-09-22"
 title = "About"
 +++
 
@@ -8,8 +8,7 @@ in the broad topic of String Phenomenology. The talks are held virtually on Tues
 11 AM - 12 PM EST, in order to allow for maximum participation across the globe.
 All presentations will be by junior researchers who are not yet in permanent positions. 
 
-Please register to receive links for 
-viewing the presentations.
+Talks will be given via Zoom. Please register to the mailing list to receive the links.
 
 
 **Organizers:**  

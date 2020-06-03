@@ -1,10 +1,10 @@
 +++
-date = "2015-08-22"
-title = "Program"
+date = "2015-07-21"
+title = "Schedule"
 +++
 
-The talk series will be held virtually from 11:00AM-12:00PM EDT on
-Tuesdays, beginning June 16. Video link TBA.
+The talk series will be held via Zoom from 11:00AM-12:00PM EDT on
+Tuesdays, beginning June 16. Please register to the mailing list to receive the links.
 
 
 # Schedule 
